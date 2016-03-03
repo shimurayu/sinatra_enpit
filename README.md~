@@ -1,7 +1,0 @@
-Simple Sinatra example.
-
-Usage:
-
-'''
-ruby hello.rb -o 0.0.0.0 -p 3000
-'''
